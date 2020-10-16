@@ -1,3 +1,3 @@
-# coursera
+# Coursera
 
-Learning fullstackwith react in coursera
+Learning fullstackwith react in coursera.
