@@ -1,3 +1,3 @@
 # Coursera
 
-Learning fullstack with react in coursera.
+Learning frontend dev in coursera.
